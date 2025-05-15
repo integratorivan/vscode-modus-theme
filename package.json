@@ -1,0 +1,21 @@
+{
+  "name": "modus-operandi-tinted",
+  "displayName": "modus operandi tinted",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modus Operandi Tinted",
+        "uiTheme": "vs",
+        "path": "./themes/Modus Operandi Tinted-color-theme.json"
+      }
+    ]
+  }
+}
